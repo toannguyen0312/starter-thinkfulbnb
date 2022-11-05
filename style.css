@@ -154,6 +154,12 @@ footer p {
     flex-direction: row;
   }
 
+  .form-group {
+    flex-direction: column;
+    display: flex;
+    flex-grow: 1;
+  }
+  
   .group {
     display: flex;
     flex-direction: row;
