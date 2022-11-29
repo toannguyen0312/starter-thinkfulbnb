@@ -71,8 +71,9 @@ header nav ul {
 
 .logo {
   display: flex;
+  justify-content: center;
   font-family: "Pangolin", cursive;
-  font-size: 72px;
+  font-size: 60px;
   color: #fff;
 }
 
