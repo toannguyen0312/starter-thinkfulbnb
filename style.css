@@ -197,4 +197,10 @@ footer p {
     flex: 1;
     flex-direction: row;
   }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    font-size: 44px;
+  }
 }
