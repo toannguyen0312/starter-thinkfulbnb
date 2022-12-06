@@ -203,4 +203,9 @@ footer p {
     align-items: center;
     font-size: 44px;
   }
+  html {
+    display: flex;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+  }
 }
